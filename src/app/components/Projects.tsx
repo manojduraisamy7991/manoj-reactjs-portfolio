@@ -11,7 +11,7 @@ export const Projects = () => {
       demo: "https://idea-vault-six.vercel.app/",
     },
     {
-      image: "/images/todo-app.png",
+      image: "/images/idea-vault.png",
       title: "Todo App",
       description: "A Firebase-powered Todo App with drag-and-drop, filtering, and auth features.",
       tech: ["React", "Firebase", "Redux"],
@@ -19,7 +19,7 @@ export const Projects = () => {
       demo: "https://todo-app.vercel.app",
     },
     {
-      image: "/images/portfolio.png",
+      image: "/images/idea-vault.png",
       title: "Portfolio Website",
       description: "Responsive portfolio site built with Tailwind & Next.js showcasing my work.",
       tech: ["Next.js", "Tailwind CSS"],
@@ -36,7 +36,7 @@ export const Projects = () => {
         demo: "https://idea-vault.vercel.app",
       },
       {
-        image: "/images/todo-app.png",
+        image: "/images/idea-vault.png",
         title: "Todo App",
         description: "A Firebase-powered Todo App with drag-and-drop, filtering, and auth features.",
         tech: ["React", "Firebase", "Redux"],
@@ -44,7 +44,7 @@ export const Projects = () => {
         demo: "https://todo-app.vercel.app",
       },
       {
-        image: "/images/portfolio.png",
+        image: "/images/idea-vault.png",
         title: "Portfolio Website",
         description: "Responsive portfolio site built with Tailwind & Next.js showcasing my work.",
         tech: ["Next.js", "Tailwind CSS"],
@@ -52,7 +52,7 @@ export const Projects = () => {
         demo: "https://your-portfolio.vercel.app",
       },
       {
-        image: "/images/expense-tracker.png",
+        image: "/images/idea-vault.png",
         title: "Expense Tracker",
         description: "A simple personal finance tracker that visualizes expenses with charts and stores data in Firestore.",
         tech: ["React", "Chart.js", "Firebase"],
@@ -60,7 +60,7 @@ export const Projects = () => {
         demo: "https://expense-tracker.vercel.app",
       },
       {
-        image: "/images/kanban-board.png",
+        image: "/images/idea-vault.png",
         title: "Kanban Board",
         description: "Drag-and-drop Kanban board for task management, inspired by Trello.",
         tech: ["React", "Tailwind CSS", "Dnd-kit"],
@@ -68,15 +68,13 @@ export const Projects = () => {
         demo: "https://kanban-board.vercel.app",
       },
       {
-        image: "/images/blog-space.png",
+        image: "/images/idea-vault.png",
         title: "Blog Space",
         description: "A markdown-powered blog app where users can read, write and edit articles.",
         tech: ["Next.js", "Tailwind", "MDX"],
         github: "https://github.com/yourusername/blog-space",
         demo: "https://blog-space.vercel.app",
       }
-    
-    
   ];
 
   return (
