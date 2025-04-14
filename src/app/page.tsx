@@ -3,6 +3,7 @@ import {About} from './components/About';
 import { Projects} from './components/Projects';
 import {Contact} from './components/Contact';
 import {TechStack} from './components/TechStack';
+import {Domain} from './components/Domain';
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Projects />
         <TechStack />
         <Contact />
+        <Domain />
       </main>
     </div>
   ) 

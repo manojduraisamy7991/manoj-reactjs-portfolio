@@ -28,7 +28,7 @@ interface ProjectCardProps {
             {tech.map((stack, index) => (
               <span
                 key={index}
-                className="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded"
+                className="bg-black text-white text-xs font-medium px-2.5 py-0.5 rounded"
               >
                 {stack}
               </span>
@@ -39,7 +39,7 @@ interface ProjectCardProps {
             <a
               href={demo}
               target="_blank"
-              className="text-sm text-white bg-blue-500 px-3 py-1 rounded hover:bg-blue-600"
+              className="text-sm text-white bg-black px-3 py-1 rounded hover:bg-blue-600"
             >
               🔗 Live Demo
             </a>
