@@ -12,7 +12,6 @@ export const Skills = [
   { name: 'Next.js', image: 'https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000' },
   { name: 'Redux', image: 'https://img.icons8.com/?size=80&id=3VGtaw5gCc8T&format=png' },
   { name: 'Redux Thunk', image: 'https://img.icons8.com/?size=48&id=3VGtaw5gCc8T&format=png' },
-  { name: 'Angularjs', image: 'https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000' },
   { name: 'Angular', image: 'https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000' },
 
   // 🎨 UI Libraries
@@ -23,7 +22,6 @@ export const Skills = [
 
 
   // DataBase 
-  { name: 'FireBase', image: 'https://img.icons8.com/?size=100&id=ROMfFZ1tMhpk&format=png&color=000000' },
   { name: 'MongoDB', image: 'https://img.icons8.com/?size=100&id=74402&format=png&color=000000' },
   { name: 'Graphql', image: 'https://img.icons8.com/?size=100&id=zdI5E8moxhs-&format=png&color=000000' },
   { name: 'Express js', image: '  https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000' },
