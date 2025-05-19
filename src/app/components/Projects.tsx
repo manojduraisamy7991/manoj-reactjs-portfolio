@@ -28,12 +28,12 @@ export const Projects = () => {
     },
     
       {
-        image: "/images/idea-vault.png",
-        title: "Idea Vault",
-        description: "A micro SaaS platform for creators to save and organize content ideas using Firebase.",
+        image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1400&q=80",
+        title: "Netflix Clone",
+        description: "Netflix is an American subscription video on-demand over-the-top streaming service.",
         tech: ["Next.js", "Firebase", "Tailwind CSS"],
-        github: "https://github.com/manojduraisamy7991/Idea-Vault",
-        demo: "https://idea-vault.vercel.app",
+        github: "https://github.com/manojduraisamy7991",
+        demo: "https://cranky-ardinghelli5-kqlf7.view-3.tempo-dev.app/",
       },
       {
         image: "/images/idea-vault.png",
