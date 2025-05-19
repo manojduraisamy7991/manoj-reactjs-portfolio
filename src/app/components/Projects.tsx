@@ -68,12 +68,12 @@ export const Projects = () => {
         demo: "https://kanban-board.vercel.app",
       },
       {
-        image: "/images/idea-vault.png",
-        title: "Blog Space",
-        description: "A markdown-powered blog app where users can read, write and edit articles.",
-        tech: ["Next.js", "Tailwind", "MDX"],
-        github: "https://github.com/yourusername/blog-space",
-        demo: "https://blog-space.vercel.app",
+        image: "https://www.zoho.com/inventory/images/common-dashboard-1x.png",
+        title: "Inventory Management - StockView360",
+        description: "The Inventory Management System is a web-based application designed to help businesses manage their stock,suppliers,product lifecycle efficiently.",
+        tech: ["Next.js", "Tailwind", "reactjs"],
+        github: "https://github.com/manojduraisamy7991/inventory-app",
+        demo: "https://stockview360.vercel.app/",
       }
   ];
 
