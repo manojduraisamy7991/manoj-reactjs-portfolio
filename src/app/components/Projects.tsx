@@ -28,12 +28,12 @@ export const Projects = () => {
     },
     
       {
-        image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=1400&q=80",
-        title: "Netflix Clone",
-        description: "Netflix is an American subscription video on-demand over-the-top streaming service.",
-        tech: ["Next.js", "Firebase", "Tailwind CSS"],
-        github: "https://github.com/manojduraisamy7991",
-        demo: "https://cranky-ardinghelli5-kqlf7.view-3.tempo-dev.app/",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjk9DDoHgCWq7qgT_wgvmzweD9Nn9VcHpd6NIa9QwHFKGvmHuSIWBI_7EiEav7cYvQqg&usqp=CAU",
+        title: "Twitter Clone",
+        description: "Twitter Clone Real-Time Features: Instant post/likes/comments without page reload",
+        tech: ["Reactjs", "HTML","CSS" ,"Tailwind CSS"],
+        github: "https://github.com/manojduraisamy7991/Twitter-Clone",
+        demo: "https://twitter-clone-fawn-iota.vercel.app/",
       },
       {
         image: "/images/idea-vault.png",
