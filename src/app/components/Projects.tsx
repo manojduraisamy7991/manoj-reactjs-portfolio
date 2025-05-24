@@ -36,12 +36,12 @@ export const Projects = () => {
         demo: "https://twitter-clone-fawn-iota.vercel.app/",
       },
       {
-        image: "/images/idea-vault.png",
-        title: "Todo App",
-        description: "A Firebase-powered Todo App with drag-and-drop, filtering, and auth features.",
+        image: "https://arynews.tv/wp-content/uploads/2024/12/netflix-1-696x342.jpg",
+        title: "Netfilx clone",
+        description:"Netflix is an American subscription video on-demand over-the-top streaming service. The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.",
         tech: ["React", "Firebase", "Redux"],
-        github: "https://github.com/yourusername/todo-app",
-        demo: "https://todo-app.vercel.app",
+        github: "https://github.com/manojduraisamy7991/netflix-clone",
+        demo: "https://netflix-clone-gray-pi-92.vercel.app/",
       },
       {
         image: "/images/idea-vault.png",
