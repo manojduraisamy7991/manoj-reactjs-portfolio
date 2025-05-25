@@ -19,12 +19,12 @@ export const Projects = () => {
       demo: "https://todo-app.vercel.app",
     },
     {
-      image: "/images/idea-vault.png",
-      title: "Portfolio Website",
-      description: "Responsive portfolio site built with Tailwind & Next.js showcasing my work.",
-      tech: ["Next.js", "Tailwind CSS"],
-      github: "https://github.com/manojduraisamy7991",
-      demo: "https://manoj-reactjs-portfolio.vercel.app/",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSsD_I85MznoyUIZXUHaRBzfiRPL4DNZhjw&s",
+      title: "YouTube Clone",
+      description: "YouTube is an social media and online video sharing platform",
+      tech: ["React Js", "Tailwind CSS"],
+      github: "https://github.com/manojduraisamy7991/youtube-clone",
+      demo: "https://youtube-clone-sigma-plum.vercel.app/",
     },
     
       {
