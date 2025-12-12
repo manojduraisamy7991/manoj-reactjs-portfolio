@@ -20,11 +20,8 @@ export const Skills = [
   { name: 'Bootstrap', image: 'https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png' },
   { name: 'React Bootstrap', image: 'https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png' },
 
-
   // DataBase 
-  { name: 'MongoDB', image: 'https://img.icons8.com/?size=100&id=74402&format=png&color=000000' },
   { name: 'Graphql', image: 'https://img.icons8.com/?size=100&id=zdI5E8moxhs-&format=png&color=000000' },
-  { name: 'Express js', image: '  https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000' },
 
   // 🧪 Testing
   { name: 'Jest', image: 'https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png' },
