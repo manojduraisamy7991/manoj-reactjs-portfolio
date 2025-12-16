@@ -12,8 +12,7 @@ export const Skills = [
   { name: 'Next.js', image: 'https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000' },
   { name: 'Redux', image: 'https://img.icons8.com/?size=80&id=3VGtaw5gCc8T&format=png' },
   { name: 'Redux Thunk', image: 'https://img.icons8.com/?size=48&id=3VGtaw5gCc8T&format=png' },
-  { name: 'Angular', image: 'https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000' },
-
+  
   // 🎨 UI Libraries
   { name: 'Material UI', image: 'https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000' },
   { name: 'Tailwind CSS', image: 'https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000' },
