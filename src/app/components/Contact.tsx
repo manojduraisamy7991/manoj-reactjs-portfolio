@@ -6,7 +6,7 @@ export const Contact = () => {
           <div className="text-center mb-4">
             <p>Email: <a href="mailto:manojduraisamy7991@gmail.com" className="underline">manojduraisamy7991@gmail.com</a> | Phone Number: <a href="tel:9080888076" className="underline">9080888076</a></p>
             <p>Front End Developer - <a href="https://leetcode.com/example" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600 transition duration-300">leetcode (Started)</a></p>
-            <p>Resume - <a href="/pdf/Resume.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600 transition duration-300">Resume (Download)</a></p>
+            <p>Resume - <a href="https://tinyurl.com/5amd5f7a" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-600 transition duration-300">Resume (Download)</a></p>
 
           </div>
           <div className="flex justify-center space-x-4">
